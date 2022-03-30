@@ -1,0 +1,5 @@
+Table has the following Columns:
+First_Name, Last_Name, Department_Id,Contact_No, Hire_Date
+Display the emplopyee First_name, Count of Characters in the firstname,password.
+Password should be first 4 letters of first name in lower case and the date and month of Hire_date
+
